@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 3. Run the Streamlit app
-
+   
 ```bash
 Copy code
 streamlit run app.py
