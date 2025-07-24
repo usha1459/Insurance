@@ -36,7 +36,6 @@ streamlit run app.py
 ```
 📁 Project Structure
 ```bash
-Copy code
 Insurance/
 ├── app.py                     # Streamlit frontend code
 ├── prediction_helper.py       # Prediction logic using ML model
