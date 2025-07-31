@@ -1,4 +1,4 @@
-# 🏥 Health Insurance Premium Predictor
+# 🏥 Premium Health Insurance Predictor
 
 A Streamlit web application that predicts health insurance premium costs based on user inputs such as age, income, BMI, medical history, lifestyle, and other personal attributes.
 
